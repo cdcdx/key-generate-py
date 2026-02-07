@@ -28,6 +28,13 @@ NETWORK_CONFIG = {
         "native_url": 'https://mainnet.base.org',
         "token_contract": '0x833589fcd6edb6e08f4c7c32d4f71b54bda02913'
     },
+    "base_sxp": {
+        "native_symbol": "ETH",
+        "native_name": "Base_SXP",
+        "native_decimals": 18,
+        "native_url": 'https://mainnet.base.org',
+        "token_contract": '0x31904F19350eE068F186c0d65B25DE9Bf6997c8e'
+    },
     "bsc": {
         "native_symbol": "BNB",
         "native_name": "Binance Smart Chain",
